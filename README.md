@@ -1,5 +1,5 @@
 [![MasterHead](https://beyondtheory.co.uk/storage/images/other/2016/08/Beyond-Theory-Data-Analysis-Landing-Page-graphic.png)](https://WM1D7.io)
-<h1 align="center">Hi 👋, I'm Deep Patel</h1>
+<h1 align="center">Hello 👋, I'm Deep Patel</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/84115928/142569072-22fdc7ac-5815-4e96-b84d-f918a85d47ec.gif">
 
