@@ -11,6 +11,8 @@
 
 - 💬 Ask me about **Data Analytics , Business Analysis , Stock Market**
 
+- 👀 I’m a data analyst who enjoys documenting my learning journey.
+
 - ⚡ Fun fact **I Believe in Simplicity**
 
 <h3 align="left">Connect with me:</h3>
