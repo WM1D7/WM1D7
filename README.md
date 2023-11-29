@@ -38,6 +38,7 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> 
    <a href="https://www.microsoft.com/en-in/microsoft-365/microsoft-office" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/microsoft-office3327.jpg" alt="office" width="90" height="70"/> </a> 
+    <a href="https://wordpress.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.pixabay.com/photo/2016/11/09/08/58/wordpress-1810632_1280.jpg" alt="wordpress" width="55" height="50"/> </a> 
  
 
 
