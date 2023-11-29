@@ -22,7 +22,7 @@
 
 ## Skills and Tools: <div>
 <p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/375416i783713B05CAD4A92/image-size/original?v=v2&px=-1" title="excel" alt="excel" width="80" height="60"/> </a> 
+  <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/375416i783713B05CAD4A92/image-size/original?v=v2&px=-1" title="excel" alt="excel" width="80" height="50"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://allvectorlogo.com/img/2017/02/microsoft-sql-server-logo.png" title="MsSQL"  alt="MsSQL" width="90" height="60"/> </a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="60" height="60"/> </a>
