@@ -1,7 +1,7 @@
 [![MasterHead](https://beyondtheory.co.uk/storage/images/other/2016/08/Beyond-Theory-Data-Analysis-Landing-Page-graphic.png)](https://WM1D7.io)
 <h1 align="center">Hello! 👋,  I'm Deep Patel</h1>
 <h3 align="center">A passionate Data Analyst 👨🏻‍💻</h3> 
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/84115928/142569072-22fdc7ac-5815-4e96-b84d-f918a85d47ec.gif">
+<img align="right" alt="Coding" width="370" src="https://user-images.githubusercontent.com/84115928/142569072-22fdc7ac-5815-4e96-b84d-f918a85d47ec.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wm1d7&label=Profile%20views&color=0e75b6&style=flat" alt="wm1d7" /> </p>
 
